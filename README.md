@@ -19,25 +19,21 @@ The dataset consists of records from a fictional telecommunications company, enc
 <li>
 <h5>Data Exploration and Preprocessing:</h5> Detailed examination of the dataset's structure, handling missing values, and preprocessing steps such as data wrangling and outlier detection.
 <li>
-
 <li>
 <h5>EDA and Data Visualization:</h5> Exploratory Data Analysis (EDA) to uncover patterns, relationships, and anomalies within the dataset using visualization techniques.
 <li>
-
 <li>
 <h5>Model Deployment:</h5> Deployment of the final predictive model into operational systems for real-time churn prediction and proactive intervention.
 <li>
-
 <li>
 <h5>Model Deployment:</h5> Deployment of the final predictive model into operational systems for real-time churn prediction and proactive intervention.
 <li>
-
 </ol>
 
 <h3>Usage</h3>
 <ul>Clone the repository:
 <li>git clone https://github.com/namankamble/Customer-Churn-Prediction-Using-Machine-Learning.git</li>
-<ul>
+</ul>
 
 <h3>License</h3>
 <p>This project is licensed under the MIT License.</p>
